@@ -1,5 +1,5 @@
 # JWT-authentication
-[Project branch -dev]
+                                                                                                                 [Project branch -dev]
 
 
 Here, I have implemented the JWT Authentication Project for Spring Boot. This project demonstrates how to implement a secure authentication system using JSON Web Tokens (JWT) in a Spring Boot application. JSON Web Tokens (JWT) are a popular way to implement stateless authentication in web applications. This project provides a simple yet comprehensive example of how to integrate JWT authentication into a Spring Boot application, including user registration, login, token-based security, and generated refresh token.
